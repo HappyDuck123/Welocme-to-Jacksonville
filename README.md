@@ -1,2 +1,2 @@
-# Welocme-to-Jacksonville
+# Welcome-to-Jacksonville
 Week 2 first coding project 
